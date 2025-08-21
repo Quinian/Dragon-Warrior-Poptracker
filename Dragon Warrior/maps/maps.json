@@ -1,0 +1,98 @@
+[
+  {
+    "name": "world_map",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/world_map.png"
+  },
+  {
+    "name": "tantegel",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/tantegel_castle.png"
+  },
+  {
+    "name": "garinham",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/garinham.png"
+  },
+  {
+    "name": "kol",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/kol.png"
+  },
+  {
+    "name": "brecconary",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/brecconary.png"
+  },
+  {
+    "name": "rimuldar",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/rimuldar.png"
+  },
+  {
+    "name": "cantlin",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/cantlin.png"
+  },
+  {
+    "name": "hauksness",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/hauksness.png"
+  },
+  {
+    "name": "erdricks_cave",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/erdricks_cave.png"
+  },
+  {
+    "name": "swamp_cave",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/swamp_cave.png"
+  },
+  {
+    "name": "garins_grave",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/garinham_grave.png"
+  },
+  {
+    "name": "mountain_cave",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/mountain_cave.png"
+  },
+  {
+    "name": "charlock_1f",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/charlock_1f.png"
+  },
+  {
+    "name": "charlock_b1",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/charlock_b1.png"
+  },
+  {
+    "name": "charlock_b7",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/charlock_b7.png"
+  },
+  {
+    "name": "charlock_basement_connections",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/charlock_basement_connections.png"
+  }
+]

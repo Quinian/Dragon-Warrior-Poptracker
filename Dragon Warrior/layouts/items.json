@@ -1,0 +1,58 @@
+{
+  "shared_item_grid": {
+    "type": "itemgrid",
+    "item_margin": "2, 4",
+    "item_width": 36,
+    "item_height": 36,
+    "rows": [
+      ["stones_of_sunlight", "staff_of_rain", "erdricks_token"],
+      ["rainbow_drop", "silver_harp_display", "gwaelins_love"],
+      ["fairy_flute", "erdricks_tablet", "magic_key"]
+    ]
+  },
+  "gg_panel": {
+    "type": "itemgrid",
+    "item_margin": "2, 4",
+    "item_width": 36,
+    "item_height": 36,
+    "rows": [
+      ["nil"],
+      ["ball_of_light"],
+      ["nil"]
+    ]
+  },
+"equipment_panel": {
+  "type": "itemgrid",
+  "item_margin": "2, 4",
+  "item_width": 36,
+  "item_height": 36,
+  "rows": [
+    ["equipment_weapon"],
+    ["equipment_armor"],
+    ["equipment_shield"]
+  ]
+},
+
+  "option_toggles": {
+    "type": "itemgrid",
+    "item_margin": "4, 6",
+    "item_width": 100,
+    "item_height": 36,
+    "rows": [
+      ["shopsanity"],
+      ["levelsanity"],
+      ["searchsanity"]
+    ]
+  },
+  "shopsanity_panel": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "item_width": 36,
+    "item_height": 36,
+    "rows": [
+      ["bamboo_pole", "club", "copper_sword", "hand_axe", "broad_sword"],
+      ["flame_sword", "clothes", "leather_armor", "chain_mail", "half_plate"],
+      ["full_plate", "magic_armor", "small_shield", "large_shield", "silver_shield"]
+    ]
+  }
+}
