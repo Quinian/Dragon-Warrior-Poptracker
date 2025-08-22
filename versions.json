@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "0.1.1",
+      "changelog": "whoops typo caused poptracker to not load it",
+      "file": "tracker.zip"
+    }
+  ]
+}
