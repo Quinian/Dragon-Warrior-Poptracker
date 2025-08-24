@@ -1,9 +1,9 @@
 {
   "versions": [
     {
-      "version": "0.1.3",
-      "changelog": "fixed item mapping.",
-      "file": "tracker.zip"
+      "version": "0.1.4",
+      "changelog": "Added tracking support for Gwaelin quest line.",
+      "file": "Dragon Warrior.zip"
     }
   ]
 }
